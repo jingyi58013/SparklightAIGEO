@@ -24,6 +24,7 @@ __pycache__/
 /public/build
 /public/hot
 /public/storage
+/public/storage.baiduyun.uploading.cfg
 /storage/*.key
 /storage/pail
 /vendor
